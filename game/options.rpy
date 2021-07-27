@@ -24,7 +24,7 @@ define gui.show_name = True
 
 ## ゲームのバージョン。
 
-define config.version = "1.0"
+define config.version = "0.1-draft"
 
 
 ## About（バージョン情報）スクリーンに表示されるテキスト。トリプルクオートの間に
