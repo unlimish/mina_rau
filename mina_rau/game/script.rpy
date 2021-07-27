@@ -33,7 +33,7 @@ label start:
     # at center は中央に下揃えで表示します。これは省略しても同じ結果になります。
     # その他に at right、at left などがデフォルトで定義されています。
 
-    show eileen happy at center
+    show minato happy at center
 
     # トランジション（画面遷移効果）を使って表示を画面に反映させます。
     # 台詞を表示するか with None を使うと、トランジション無しで直ちに表示します。
@@ -48,6 +48,8 @@ label start:
     # 以下は台詞を表示します。
 
     m "Ren'Py の新しいゲームを作成しました。"
+
+    show rau normal at left
 
     r "ストーリー、画像、音楽を追加すれば、世界にリリースすることができます！"
 
